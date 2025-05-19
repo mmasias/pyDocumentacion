@@ -36,6 +36,14 @@ Ambas están completamente ligadas, pero son contrapartes, completamente distint
 
 De manera similar, la relación de un profesional con su práctica es algo que debe adquirirse **y** aplicarse. Estar "en el trabajo" (preocupado por aplicar las habilidades y conocimientos de su oficio) y estar "en el estudio" (preocupado por adquirirlos) son, una vez más, contrapartes, distintas pero vinculadas entre sí.
 
+Esto nos da dos dimensiones de habilidad, que podemos plasmar en un mapa, un mapa del territorio de la artesanía:
+
+<div align=center>
+
+<table>
+<tr>
+<td>
+
 ```
                       Acción
                          ↑
@@ -56,10 +64,49 @@ Adquisición -------------+------------- Aplicación
                      Cognición
 
 ```
+</td>
+</tr>
+</table>
 
+</div>
+
+Este es un mapa completo . Solo tiene dos dimensiones, y no solo cubren todo el territorio, sino que lo definen. Por eso tiene necesariamente cuatro cuartos, y no podría haber tres ni cinco. No es un número arbitrario.
+
+También nos muestra las cualidades artesanales que definen a cada uno. Al aplicar a este mapa la idea de que la documentación debe satisfacer las necesidades de la artesanía, se revela a su vez ***qué debe ser*** y ***qué debe hacer*** la documentación para cumplir con dichas obligaciones, de cuatro maneras distintas.
+
+<div align=center>
+
+<table>
+<tr>
+<td>
+
+```
+                      Acción
+                         ↑
+                         |
+                         |
+          TUTORIALES     |     GUÍAS PRÁCTICAS
+         aprendizaje     |     objetivos
+                         |
+                         |
+Adquisición -------------+------------- Aplicación
+                         |
+                         |
+         comprensión     |     información
+         EXPLICACIÓN     |     REFERENCIA
+                         |
+                         |
+                         ↓
+                     Cognición
+
+```
+</td>
+</tr>
+</table>
+
+</div>
 
 - [Tutorial](docs/tutorial.md)
 - [Guías prácticas](docs/guiaPractica.md)
 - [Referencia](docs/referencia.md)
 - [Explicación](docs/explicacion.md)
-
